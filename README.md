@@ -6,7 +6,9 @@
 
 * [Salesforce Marketing Cloud Developer Meetup Group](https://www.meetup.com/Salesforce-Marketing-Cloud-Melbourne-Developers-Group/) - join us for to learn more about upcomming meetings, events are formal meetups and online. 
 * [Salesforce Marketing Cloud Developer LinkedIn Group ](https://www.linkedin.com/groups/7059991) - features articles from developers, links to jobs and weekly Salesforce Marketing Cloud developer curated links and tips newsletter.
+* [Salesforce Marketing Cloud Developer Group Roadmap](https://trello.com/b/OvtBLR61/meetups) - discover what we have planned and how you can get involved on trello
 * [@sfmcdg](https://twitter.com/sfmcdg) - follow us on twitter for Salesforce Marketing Cloud developer shares and updates.
+
 
 ## Contributors
 
