@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+div.wrapper header h1 {
+	font-size: 14px;
+}
+
+div.wrapper footer {
+	display:none;
+}
