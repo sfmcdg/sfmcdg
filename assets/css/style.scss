@@ -2,11 +2,4 @@
 ---
 
 @import "{{ site.theme }}";
-
-.header h1 {
-	font-size: 14px;
-}
-
-.footer {
-	display:none;
-}
+header h1 {font-size:14px;}
