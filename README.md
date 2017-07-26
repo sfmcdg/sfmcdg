@@ -15,6 +15,7 @@ Video recordings of past user group meetings are available below.
 
 * [AMPScript and More](https://vimeo.com/219890966) presented by Adam Spriggs, 31 May 2017
 * [Advanced AMPscript](https://vimeo.com/219919658) presented by Eliot Harper, 19 April 2017
+* [Marketing Cloud Connector](https://vimeo.com/227015728) presented by Girish Krishnamurthy, 21 June 2017
 
 ## Contributors
 
