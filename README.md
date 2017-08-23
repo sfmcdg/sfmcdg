@@ -16,7 +16,7 @@ Recordings and presentation material of past meetups are available below.
 * [AMPScript and More](https://vimeo.com/219890966) presented by Adam Spriggs, 31 May 2017
 * [Advanced AMPscript](https://vimeo.com/219919658) presented by Eliot Harper, 19 April 2017
 * [Marketing Cloud Connector](https://vimeo.com/227015728) presented by Girish Krishnamurthy, 21 June 2017
-* Marketing Cloud APIs presented by Eliot Harper, 23 August 2017 [presentation](master/assets/Marketing-Cloud-APIs-EliotHarper-Aug17.pdf), [Postman Collection](master/assets/SFMCDGMeetupAug17.postman_collection.json)
+* Marketing Cloud APIs presented by Eliot Harper, 23 August 2017 [[view presentation](assets/Marketing-Cloud-APIs-EliotHarper-Aug17.pdf), | [download Postman Collection](assets/SFMCDGMeetupAug17.postman_collection.json)]
 
 ## Contributors
 
